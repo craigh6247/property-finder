@@ -1,5 +1,5 @@
 
-# Python Web Scraping Project
+# Rightmove Scraper
 
 This project is a web scraping application using Python, Selenium, and BeautifulSoup.
 
