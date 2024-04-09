@@ -1,4 +1,4 @@
-```
+
 # Python Web Scraping Project
 
 This project is a web scraping application using Python, Selenium, and BeautifulSoup.
@@ -83,4 +83,4 @@ deactivate
 ```
 
 This will return you to your global Python environment.
-```
+
